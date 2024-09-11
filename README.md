@@ -1,6 +1,6 @@
 # Getting Started with To Do List React App
 
-<img width="1438" alt="Screen Shot 2024-09-10 at 4 12 04 PM" src="https://github.com/user-attachments/assets/5cebb026-5c86-43ea-94fd-31648e0e5901">
+<img width="1436" alt="Screen Shot 2024-09-11 at 12 56 13 PM" src="https://github.com/user-attachments/assets/37533db2-e3fc-4457-b0ee-8bb68ba9fac1">
 
 ## Available Scripts
 
