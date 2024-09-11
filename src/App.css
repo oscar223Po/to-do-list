@@ -1,0 +1,37 @@
+/* ======================================================================================================================================================== */
+h2 {
+	margin: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.main {
+	gap: 15px;
+	display: flex;
+	flex-wrap: wrap;
+	padding: 20px 15px;
+}
+.items {
+	gap: 15px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.todolist-top {
+	margin-bottom: 15px;
+}
+.todolist-item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.todolist-item input {
+	width: 100%;
+}
+.todolist-item-main {
+	display: flex;
+	align-items: center;
+}
+.todolist-items {
+	margin: 10px 0px;
+}
+/* ======================================================================================================================================================== */
